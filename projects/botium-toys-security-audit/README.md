@@ -49,3 +49,10 @@ I performed a complete internal security audit for Botium Toys using their risk 
 This project includes:
 - Controls & Compliance Checklist  
 - Recommendations Summary  
+---
+
+## 📄 Download Full Audit Checklist
+
+You can download the combined Controls & Compliance Checklist (with YES/NO answers and explanations) here:
+
+👉 [Download Full Audit Checklist (PDF)](./Botium_Toys_Controls_And_Compliance_With_Reasons.pdf)
