@@ -1,25 +1,25 @@
-# Résumé
+# Resume
 
 Below are the downloadable versions of my résumés.  
 You can access the cybersecurity and construction versions using the links below:
 
 ---
 
-## 📄 Cybersecurity Résumé  
-👉 [Download Cybersecurity Résumé (PDF)](./Nicholas_Garcia_Cybersecurity_Resume.pdf)
+## 📄 Cybersecurity Resume  
+👉 [Download Cybersecurity Resume (PDF)](./Nicholas_Garcia_Cybersecurity_Resume.pdf)
 
 A cybersecurity-focused résumé highlighting my skills in threat detection, log analysis, security auditing, Linux administration, SIEM tools, hands-on labs, and defensive security workflows.
 
 ---
 
-## 📄 Construction Résumé  
-👉 [Download Construction Résumé (PDF)](./Nicholas_Garcia_Construction_Resume.pdf)
+## 📄 Construction Resume  
+👉 [Download Construction Resume (PDF)](./Nicholas_Garcia_Construction_Resume.pdf)
 
 A professional construction résumé detailing my experience as a Foreman, Heavy Equipment Operator, and technician with strong leadership, safety, and operational management skills.
 
 ---
 
-### About These Résumés
+### About These Resumes
 These documents represent the two sides of my professional background:
 
 - **Cybersecurity** — My current career path and hands-on technical development  
