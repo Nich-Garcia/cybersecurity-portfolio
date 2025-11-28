@@ -1,193 +1,296 @@
-<!-- HEADER BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=90&section=header&text=Nicholas%20Garcia%20%7C%20Cybersecurity%20Portfolio&fontColor=ffffff&fontSize=22&animation=fadeIn" />
-</div>
-
-<br/>
-
-<p align="center">
-  Aspiring Security Analyst • Construction Management & Field Operations Background • Building Practical Cybersecurity Skills
-</p>
-
----
-
-## 🔀 Cybersecurity × Construction Background (Split View)
-
-| 🔐 Cybersecurity Focus | 🏗 Construction & Field Operations |
-|------------------------|------------------------------------|
-| Google Cybersecurity Professional Certificate (in progress) | Foreman / Heavy Equipment Operator |
-| Threat detection & log analysis | Crew leadership & coordination |
-| Linux, networking, system hardening | Safety, risk awareness, jobsite control |
-| SIEM basics (Splunk, Chronicle) | Documentation, daily reports, change tracking |
-| Incident documentation & response workflows | Working under pressure and in hazardous environments |
-
-I’m transitioning from **hands-on field work** into **cybersecurity**, bringing a strong safety mindset, risk awareness, and real-world problem-solving into SOC and defensive security work.
-
----
-
-## 🎨 Skills & Tools
+<!-- HERO / HEADER -->
 
 <div align="center">
 
-<!-- Core Security -->
-<img src="https://img.shields.io/badge/Threat_Detection-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Incident_Response-FF4500?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Security_Auditing-795548?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Risk_Assessment-006400?style=for-the-badge" />
+# 🧊 Nicholas Garcia  
+### Construction Management • Cybersecurity • Risk & Operations
 
-<br/>
-
-<!-- Systems & Scripting -->
-<img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white" />
-
-<br/>
-
-<!-- Networking & Analysis -->
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-2C97A6?style=for-the-badge&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/TCP/IP-336699?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Firewalls-CC0000?style=for-the-badge" />
-
-<br/>
-
-<!-- Platforms & Tools -->
-<img src="https://img.shields.io/badge/Splunk-000?style=for-the-badge&logo=splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/Chronicle-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Nessus-0082C3?style=for-the-badge&logo=tenable&logoColor=white" />
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+Bridging **field-tested construction leadership** with **hands-on cybersecurity** —  
+focused on **risk awareness, system hardening, SIEM analysis, and incident response**.
 
 </div>
 
 ---
 
-## 👤 About Me
+<!-- QUICK GLASS CARDS -->
 
-I am an aspiring **Security Analyst** with a background in **Construction Management and field operations**.  
+<table>
+<tr>
+<td width="50%" valign="top">
 
-In construction, I learned to:
-- Manage crews and equipment safely  
-- Follow procedures and regulations  
-- Document work clearly and consistently  
-- Solve problems under pressure in real-world environments  
+### 🏗️ Field Operations ➜ Cybersecurity
 
-Now I’m applying that experience to **cybersecurity**:
+- Years of experience as a **Foreman / Heavy Equipment Operator**
+- Used to **risk, safety, and documentation** every day  
+- Comfortable leading crews, coordinating work, and solving problems under pressure  
+- Bring that same mindset to **incidents, logs, and security events**
 
-- Security operations and monitoring  
-- System hardening and access control  
-- Log analysis and SIEM fundamentals (Splunk, Chronicle)  
-- Incident detection, documentation, and response workflows  
-- Linux and networking fundamentals  
+</td>
+<td width="50%" valign="top">
 
-My goal is to grow into a **Security Analyst / SOC Analyst** role, combining technical skills with real-world operational discipline and risk awareness.
+### 🛡️ Security Analyst Path
+
+- Completing the **Google Cybersecurity Professional Certificate**  
+- Building skills in **SOC workflows, log analysis, SIEM, and system hardening**  
+- Hands-on labs in Linux, networking, Python scripting, and SQL for security  
+- Target role: **Security Analyst / SOC Analyst I**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+<!-- ABOUT ME GLASS SECTION -->
 
-### 🔍 Security Audit – Botium Toys  
-**Path:** `./projects/botium-toys-security-audit/`  
-NIST CSF-focused security audit, compliance gap analysis, and security control recommendations for a fictional e-commerce toy company.
+## 👤 About This Portfolio
+
+This repository is my **cybersecurity portfolio** — a place where I document:
+
+- Real **projects and labs**: audits, permissions, log filtering, automation  
+- A **homelab** for practicing detection and monitoring  
+- **Resumes** tailored to cybersecurity and construction  
+- The connection between **field operations discipline** and **security operations**
+
+My background in construction means I’m used to:
+
+- Identifying risks before they become incidents  
+- Following procedures and standards  
+- Documenting what happened, why, and how it was fixed  
+- Owning outcomes in **busy, real-world environments**
+
+I’m applying that same approach to **defending systems, logging activity, and responding to threats**.
 
 ---
 
-### 🐧 Linux File Permissions Lab  
-**Path:** `./projects/linux-permissions-lab/`  
-Linux hardening lab focusing on:
-- Users, groups, and permissions  
-- chmod, chown, chgrp  
+<!-- SKILLS + TOOLS GLASS GRID -->
+
+## 🧊 Skills & Tools Overview
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Core Security Skills
+
+- Threat detection & log analysis  
+- Security auditing (**NIST CSF, PCI DSS, SOC, GDPR basics**)  
+- SIEM workflows (log ingestion, alerts, dashboards)  
+- System hardening & access control  
+- Vulnerability identification & basic risk rating  
+- Incident response documentation & timelines  
+
+</td>
+<td width="50%" valign="top">
+
+### 🧰 Tools & Platforms
+
+- **Linux** (Ubuntu, Kali) • Bash  
+- **Wireshark**, **Nmap**  
+- **Splunk / Chronicle SIEM**  
+- **Windows Event Viewer**  
+- **VirtualBox** homelabs  
+- **Python 3** (scripting & parsing)  
+- **SQL** for security filtering  
+- **Nessus Essentials**  
+- **MITRE ATT&CK Navigator**  
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- FEATURED PROJECTS GLASS CARDS -->
+
+## ✨ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 **Security Audit – Botium Toys**
+**Type:** Audit • Compliance • NIST CSF  
+**Focus:** Gap analysis, control review, documentation  
+🔗 [Open Project](./projects/botium-toys-security-audit/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ **Linux File Permissions Lab**
+**Type:** Linux • Permissions • Hardening  
+**Focus:** `chmod`, `chown`, least privilege, secure defaults  
+🔗 [Open Project](./projects/linux-permissions-lab/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧮 **SQL Filtering Lab**
+**Type:** SQL • Log Filtering • Queries  
+**Focus:** Finding failed logins, anomalies, and patterns  
+🔗 [Open Project](./projects/sql-filtering-lab/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧭 **Vulnerability Assessment**
+**Type:** Risk Assessment • Small Business Scenario  
+**Focus:** Identifying weaknesses, rating risk, suggesting fixes  
+🔗 [Open Project](./projects/vulnerability-assessment/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📝 **Incident Handler's Journal**
+**Type:** Incident Response • Timeline • Lessons Learned  
+**Focus:** Documenting impact, containment, and follow-up actions  
+🔗 [Open Project](./projects/incident-handler-journal/)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ **Log Parsing & Automation (Python)**
+**Type:** Python • Automation • Log Parsing  
+**Focus:** Extracting failed authentication attempts from logs  
+🔗 [Open Project](./projects/log-parsing-python/)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- HOMELAB GLASS CARD -->
+
+## 🖥️ Homelab & Practice Environment
+
+<table>
+<tr>
+<td>
+
+### 🌐 Virtual Network & SIEM Lab
+
+- Virtualized lab using **VirtualBox**  
+- Linux servers and endpoints for **log generation**  
+- Practice with **network captures, scanning, and enumeration**  
+- Simulated alerts and analysis using **SIEM tooling**  
+
+🔗 [View Homelab Notes](./homelab/)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- SKILLS DETAILS GLASS SECTION -->
+
+## 🧊 Detailed Skills Snapshot
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 Monitoring & Detection
+
+- Analyzing authentication logs for anomalies  
+- Filtering & correlating events in SIEM  
+- Using **Wireshark** and **Nmap** to understand traffic & exposure  
+
+### 🧱 Hardening & Access Control
+
+- Linux file permissions & ownership  
 - Principle of least privilege  
+- Basic system and account hardening
+
+</td>
+<td width="50%" valign="top">
+
+### 📑 Risk & Documentation
+
+- Writing **incident timelines** and summaries  
+- Capturing evidence, impact, and remediation steps  
+- Translating technical findings into **clear language**  
+
+### 🧮 Scripting & Automation
+
+- Python for log parsing & simple automation  
+- SQL for filtering and querying security-relevant data  
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🧮 SQL Filtering Lab  
-**Path:** `./projects/sql-filtering-lab/`  
-Security-focused SQL practice:
-- Filtering authentication logs  
-- Identifying suspicious login attempts  
-- Using SQL to support investigations  
-
----
-
-### 🛡 Small Business Vulnerability Assessment  
-**Path:** `./projects/vulnerability-assessment/`  
-Risk and vulnerability assessment for a small business environment:
-- Asset and risk identification  
-- Vulnerability findings  
-- Practical remediation recommendations  
-
----
-
-### 📓 Incident Handler’s Journal  
-**Path:** `./projects/incident-handler-journal/`  
-Incident documentation from:
-- Detection and triage  
-- Containment and eradication  
-- Recovery and lessons learned  
-
----
-
-### 🐍 Log Parsing & Automation (Python)  
-**Path:** `./projects/log-parsing-python/`  
-Python-based log parsing to:
-- Analyze authentication logs  
-- Identify unusual login patterns  
-- Support basic alerting and investigation workflows  
-
----
-
-## 🏠 Homelab
-
-### 🖥️ Virtual Network Lab & SIEM Setup  
-**Path:** `./homelab/`  
-
-Lab goals:
-- Build Windows + Linux virtual machines  
-- Centralize log collection  
-- Practice SIEM-style investigation workflows  
-- Experiment with network scanning and monitoring tools  
-
----
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-<!-- Main Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Nich-Garcia&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<!-- Streak Card -->
-<img src="https://streak-stats.demolab.com?user=Nich-Garcia&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nich-Garcia&theme=rogue&hide_border=true" />
-
-</div>
-
----
+<!-- RESUME GLASS CARD -->
 
 ## 📄 Resumes
 
-- **Cybersecurity Resume (PDF)**  
-  `./resume/Nicholas_Garcia_Cybersecurity_Resume.pdf`
+<table>
+<tr>
+<td>
 
-- **Construction Resume (PDF)**  
-  `./resume/Nicholas_Garcia_Construction_Resume.pdf`
+### 🔐 Cybersecurity Résumé  
+Focused on **security skills, labs, and hands-on projects**.  
+
+🔗 [Open Cybersecurity Résumé Page](./resume/)  
+
+(From there you can download the latest **Cybersecurity PDF**.)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📬 Contact
+<!-- GITHUB STATS & ACTIVITY GLASS CARD -->
 
-**Email:** `nich7.garcia@gmail.com`  
-**LinkedIn:** https://www.linkedin.com/in/nicholas-garcia-909926303  
-**GitHub Profile:** https://github.com/Nich-Garcia  
-**Portfolio Repo:** https://github.com/Nich-Garcia/cybersecurity-portfolio  
+## 📊 GitHub Stats & Activity
 
-Feel free to reach out about entry-level cybersecurity roles, internships, or collaboration opportunities.
+<table>
+<tr>
+<td align="center">
+
+### Nicholas Garcia's GitHub Stats
+
+> Focused on **consistent, real work** over time —  
+> labs, scripts, notes, and improvements to this portfolio.
+
+![Nicholas Garcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nich-Garcia&show_icons=true&theme=github_dark&hide_title=true)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- CONTACT GLASS CARD -->
+
+## 📬 Contact & Links
+
+<table>
+<tr>
+<td>
+
+### 🤝 Let’s Connect
+
+- 📧 **Email:** `nich7.garcia@gmail.com`  
+- 🔗 **LinkedIn:** [www.linkedin.com/in/nicholas-garcia-909926303](https://www.linkedin.com/in/nicholas-garcia-909926303)  
+- 💻 **GitHub Profile:** [https://github.com/Nich-Garcia](https://github.com/Nich-Garcia)  
+
+I’m open to:
+
+- **Entry-level Security Analyst / SOC roles**  
+- **Internships or apprenticeships**  
+- Collaborations on labs, blue-team projects, and documentation
+
+</td>
+</tr>
+</table>
